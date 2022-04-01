@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue	 
+Favorite food: french fries
+Favorite musician/band: NF
+Favorite movie: Harry Potter
+Requested grade in the course: 95 
